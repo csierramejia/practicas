@@ -1,2 +1,2 @@
 # practicas
-Repositorio para practicas
+Repositorio para practicasy pruebas de concepto
